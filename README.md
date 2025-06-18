@@ -10,12 +10,12 @@ A continuación se presenta una tabla con la descripción de cada proyecto y las
 
 | Proyecto | Descripción | Tecnologías |
 | :--- | :--- | :--- |
-| **Desarrollo** | Un proyecto base o plantilla para iniciar nuevas aplicaciones web, con estructura y configuraciones predefinidas. | _[Especificar, ej: HTML, CSS, JS]_ |
-| **JuegosTienda** | Un e-commerce completo para la venta de videojuegos digitales. Incluye catálogo, carrito de compras y panel de administración. | _[Especificar, ej: React, Node.js, Express, MongoDB]_ |
-| **Shop_Go** | Una tienda online minimalista y rápida, enfocada en la experiencia de usuario y un proceso de pago simplificado. | _[Especificar, ej: Vue.js, Firebase]_ |
-| **Sistema** | Un sistema de gestión genérico que puede adaptarse para administrar inventario, clientes o cualquier tipo de registro interno. | _[Especificar, ej: PHP, Laravel, MySQL]_ |
-| **TiendaO** | Una plataforma de e-commerce versátil para la venta de productos físicos, con gestión de stock y perfiles de usuario. | _[Especificar, ej: Angular, Spring Boot, Java]_ |
-| **Ventas** | Una aplicación de punto de venta (POS) y gestión de ventas, diseñada para registrar transacciones y generar reportes. | _[Especificar, ej: Python, Django, PostgreSQL]_ |
+| **Desarrollo** | Un proyecto base o plantilla para iniciar nuevas aplicaciones web, con estructura y configuraciones predefinidas. | HTML, CSS, PHP |
+| **JuegosTienda** | Un e-commerce completo para la venta de videojuegos digitales. Incluye catálogo, carrito de compras y panel de administración. | PHP, SQL, HTML, CSS, JavaScript |
+| **Shop_Go** | Una tienda online minimalista y rápida, enfocada en la experiencia de usuario y un proceso de pago simplificado. | PHP, MySQL, HTML, CSS, JavaScript |
+| **Sistema** | Un sistema de gestión genérico que puede adaptarse para administrar inventario, clientes o cualquier tipo de registro interno. | PHP, SQL |
+| **TiendaO** | Una plataforma de e-commerce versátil para la venta de productos físicos, con gestión de stock y perfiles de usuario. | PHP |
+| **Ventas** | Una aplicación de punto de venta (POS) y gestión de ventas, diseñada para registrar transacciones y generar reportes. | PHP, SQL, HTML, CSS, JavaScript |
 
 ---
 
